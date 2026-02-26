@@ -1,21 +1,67 @@
-MIT License
+# Licencia de Software Propietario (SomaUp)
 
-Copyright (c) 2026 SomaUp
+Copyright (c) 2026 SomaUp. Todos los derechos reservados.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Este repositorio, incluyendo código fuente, código objeto, documentación, diseños, activos y materiales relacionados (el "Software"), es propiedad exclusiva, confidencial y propietaria de SomaUp.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 1. Otorgamiento de licencia
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Sujeto a autorización expresa y por escrito de SomaUp, podrá otorgarse una licencia limitada, no exclusiva, no transferible, no sublicenciable y revocable, únicamente para el propósito interno autorizado.
+
+No se transfieren derechos de propiedad.
+
+## 2. Restricciones
+
+Salvo autorización expresa y por escrito de SomaUp, usted no podrá:
+
+- copiar, reproducir, distribuir, publicar, divulgar, vender, arrendar, alquilar, sublicenciar, ceder o transferir de cualquier forma el Software;
+- modificar, adaptar, traducir, crear obras derivadas o fusionar el Software con otro software;
+- realizar ingeniería inversa, descompilar, desensamblar o intentar derivar el código fuente, algoritmos, modelos o APIs no públicas;
+- eliminar o alterar avisos de derechos de autor, marcas o avisos de propiedad;
+- usar el Software para construir, entrenar o mejorar un servicio competidor;
+- usar el Software en contravención de la legislación aplicable.
+
+## 3. Confidencialidad
+
+Toda la información no pública relacionada con el Software constituye información confidencial de SomaUp.
+Usted se obliga a proteger dicha información con, al menos, un estándar razonable de cuidado y a usarla únicamente para los fines expresamente autorizados.
+
+## 4. Propiedad intelectual
+
+Todos los derechos de propiedad intelectual sobre el Software pertenecen exclusivamente a SomaUp y sus licenciantes.
+
+## 5. Componentes de terceros
+
+El Software puede incluir componentes de terceros regidos por sus propias licencias.
+Dichos componentes permanecerán sujetos a sus términos correspondientes, los cuales prevalecerán respecto de esos componentes específicos.
+
+## 6. Exclusión de garantías
+
+En la máxima medida permitida por la ley aplicable, el Software se proporciona "tal cual" y "según disponibilidad", sin garantías de ningún tipo, expresas, implícitas, legales o de otra naturaleza, incluyendo comerciabilidad, idoneidad para un propósito particular y no infracción.
+
+## 7. Limitación de responsabilidad
+
+En la máxima medida permitida por la ley aplicable, SomaUp no será responsable por daños indirectos, incidentales, especiales, punitivos o consecuenciales, incluyendo pérdida de utilidades, ingresos, datos, reputación comercial o interrupción del negocio, derivados de o relacionados con el Software.
+
+## 8. Terminación
+
+Cualquier autorización otorgada terminará automáticamente en caso de incumplimiento de estos términos.
+Al terminar, deberá cesar de inmediato todo uso y destruir todas las copias bajo su control, salvo conservación exigida por ley.
+
+## 9. Ley aplicable y jurisdicción
+
+Esta licencia se rige por las leyes de la República de Colombia, incluyendo la normativa aplicable de derechos de autor y concordantes.
+Cualquier controversia estará sometida a la jurisdicción de los jueces competentes de Bogotá D.C., Colombia, salvo norma imperativa en contrario.
+
+## 10. Referencias legales colombianas (informativas)
+
+Este aviso busca ser consistente, entre otras, con:
+
+- Ley 23 de 1982 (Derechos de Autor);
+- Ley 44 de 1993;
+- Decisión Andina 351 de 1993;
+- y demás normativa colombiana y andina aplicable.
+
+---
+
+Para licencias comerciales, alianzas o usos autorizados, contacte a SomaUp por los canales oficiales.
