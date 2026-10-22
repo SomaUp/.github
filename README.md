@@ -1,4 +1,4 @@
-# SomaUp 🚀
+# AtizUp 🚀
 
 ## Escala tu negocio de fitness sin perder tu vida personal
 
@@ -15,7 +15,7 @@
 
 Ayudar a coaches a salir del caos de Excel + WhatsApp + notas sueltas y convertir su servicio en un negocio profesional, escalable y sostenible.
 
-En SomaUp creemos que el coach no debería apagar incendios todo el día: debería dedicar su energía a transformar vidas.
+En AtizUp creemos que el coach no debería apagar incendios todo el día: debería dedicar su energía a transformar vidas.
 
 ---
 
@@ -32,9 +32,9 @@ Resultado: más estrés, menos tiempo libre y crecimiento estancado.
 
 ---
 
-## ⚡ Qué hace SomaUp
+## ⚡ Qué hace AtizUp
 
-SomaUp centraliza la operación diaria del coaching en un solo lugar:
+AtizUp centraliza la operación diaria del coaching en un solo lugar:
 
 - 🧩 Creación rápida de rutinas
 - 👥 Gestión de alumnos sin caos
@@ -87,7 +87,7 @@ Reducir el tiempo de creación de rutina a menos de **60 segundos**.
 Si te importa construir producto con impacto real en miles de pequeños negocios fitness, queremos conocerte.
 
 - Organización: <https://github.com/SomaUp>
-- Web: <https://somaup.com>
+- Web: <https://www.atizup.com>
 
 ---
 
